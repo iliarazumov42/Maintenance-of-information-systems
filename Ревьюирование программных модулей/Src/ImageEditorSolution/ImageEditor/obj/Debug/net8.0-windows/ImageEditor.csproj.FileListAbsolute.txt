@@ -1,0 +1,49 @@
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.exe
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.deps.json
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.runtimeconfig.json
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.pdb
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageProcessor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageProcessor.pdb
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.g.resources
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEdi.572951E7.Up2Date
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\refint\ImageEditor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.pdb
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ref\ImageEditor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.exe
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.deps.json
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.runtimeconfig.json
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageEditor.pdb
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\ImageProcessor.pdb
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.csproj.AssemblyReference.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\App.g.cs
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor_MarkupCompile.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor_MarkupCompile.lref
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.g.resources
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfoInputs.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.AssemblyInfo.cs
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.sourcelink.json
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEdi.572951E7.Up2Date
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\refint\ImageEditor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.pdb
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.genruntimeconfig.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ref\ImageEditor.dll

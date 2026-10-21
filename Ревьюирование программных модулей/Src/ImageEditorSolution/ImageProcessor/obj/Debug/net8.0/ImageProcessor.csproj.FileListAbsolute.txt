@@ -1,0 +1,23 @@
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.deps.json
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.pdb
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\refint\ImageProcessor.dll
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.pdb
+C:\Users\Пользователь\Desktop\ImageEditorSolution\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ref\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.deps.json
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\bin\Debug\net8.0\ImageProcessor.pdb
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.AssemblyInfoInputs.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.AssemblyInfo.cs
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.csproj.CoreCompileInputs.cache
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.sourcelink.json
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\refint\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.pdb
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ref\ImageProcessor.dll
