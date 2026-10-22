@@ -21,3 +21,4 @@ C:\Практика Малленом Системс\Maintenance of information s
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\refint\ImageProcessor.dll
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.pdb
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ref\ImageProcessor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageProcessor\obj\Debug\net8.0\ImageProcessor.csproj.AssemblyReference.cache

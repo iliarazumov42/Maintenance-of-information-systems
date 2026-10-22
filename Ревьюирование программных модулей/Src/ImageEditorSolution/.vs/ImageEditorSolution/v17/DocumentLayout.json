@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|solutionrelative:imageeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|solutionrelative:imageeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|solutionrelative:imageeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageeditor\\actionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|solutionrelative:imageeditor\\actionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EF54E58-A9A4-495A-8A74-56895C6E26A4}|ImageProcessor\\ImageProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageprocessor\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EF54E58-A9A4-495A-8A74-56895C6E26A4}|ImageProcessor\\ImageProcessor.csproj|solutionrelative:imageprocessor\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageeditor\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{904492C6-0342-AEC4-B0A4-3532C1DEB03C}|ImageEditor\\ImageEditor.csproj|solutionrelative:imageeditor\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF54E58-A9A4-495A-8A74-56895C6E26A4}|ImageProcessor\\ImageProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageprocessor\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF54E58-A9A4-495A-8A74-56895C6E26A4}|ImageProcessor\\ImageProcessor.csproj|solutionrelative:imageprocessor\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EF54E58-A9A4-495A-8A74-56895C6E26A4}|ImageProcessor\\ImageProcessor.csproj|c:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0441\u0438\u0441\u0442\u0435\u043C\u0441\\maintenance of information systems\\\u0440\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\src\\imageeditorsolution\\imageprocessor\\imageinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ImageEditor\\MainWindow.xaml",
@@ -38,45 +54,105 @@
               "RelativeToolTip": "ImageEditor\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-21T14:59:59.05Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ImageEditor\\MainWindow.xaml.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\MainWindow.xaml.cs",
               "RelativeToolTip": "ImageEditor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwJAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T15:43:09.548Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ImageService.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\ImageService.cs",
               "RelativeDocumentMoniker": "ImageProcessor\\ImageService.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\ImageService.cs",
               "RelativeToolTip": "ImageProcessor\\ImageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T16:11:47.265Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "imageInfo.cs",
               "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\imageInfo.cs",
               "RelativeDocumentMoniker": "ImageProcessor\\imageInfo.cs",
               "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\imageInfo.cs",
               "RelativeToolTip": "ImageProcessor\\imageInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T15:25:02.776Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\AppLogger.cs",
+              "RelativeDocumentMoniker": "ImageProcessor\\AppLogger.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageProcessor\\AppLogger.cs",
+              "RelativeToolTip": "ImageProcessor\\AppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:06:48.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\AppSettings.cs",
+              "RelativeDocumentMoniker": "ImageEditor\\AppSettings.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\AppSettings.cs",
+              "RelativeToolTip": "ImageEditor\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:31:27.589Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionHistory.cs",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\ActionHistory.cs",
+              "RelativeDocumentMoniker": "ImageEditor\\ActionHistory.cs",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\ActionHistory.cs",
+              "RelativeToolTip": "ImageEditor\\ActionHistory.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T21:42:58.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "history.json",
+              "DocumentMoniker": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json",
+              "RelativeDocumentMoniker": "ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json",
+              "ToolTip": "C:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041C\u0430\u043B\u043B\u0435\u043D\u043E\u043C \u0421\u0438\u0441\u0442\u0435\u043C\u0441\\Maintenance of information systems\\\u0420\u0435\u0432\u044C\u044E\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u044B\u0445 \u043C\u043E\u0434\u0443\u043B\u0435\u0439\\Src\\ImageEditorSolution\\ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json",
+              "RelativeToolTip": "ImageEditor\\bin\\Debug\\net8.0-windows\\logs\\history.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T22:49:11.21Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

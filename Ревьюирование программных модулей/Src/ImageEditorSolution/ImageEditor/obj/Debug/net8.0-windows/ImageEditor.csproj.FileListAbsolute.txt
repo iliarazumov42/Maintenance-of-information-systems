@@ -47,3 +47,5 @@ C:\Практика Малленом Системс\Maintenance of information s
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.pdb
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ImageEditor.genruntimeconfig.cache
 C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\obj\Debug\net8.0-windows\ref\ImageEditor.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+C:\Практика Малленом Системс\Maintenance of information systems\Ревьюирование программных модулей\Src\ImageEditorSolution\ImageEditor\bin\Debug\net8.0-windows\System.IO.Hashing.dll
