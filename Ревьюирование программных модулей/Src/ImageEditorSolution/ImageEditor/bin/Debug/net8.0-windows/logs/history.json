@@ -30,5 +30,510 @@
       "Width": "1000",
       "Height": "1000"
     }
+  },
+  {
+    "Date": "2026-10-23T13:20:44.5130679+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:03.8038492+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-23T13:21:11.596935+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:13.1870826+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:13.7678722+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:14.3423632+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:14.7027697+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:15.0257733+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:15.3765676+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:15.7125513+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:16.0938477+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:16.411965+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:16.8393852+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:17.1533501+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:17.7343097+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:17.9492241+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:18.3299644+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:19.1720785+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:19.9367828+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:20.3376909+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:21.2672616+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:24.4406873+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:24.9274093+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:25.8481295+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:26.1196778+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:27.0781466+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:27.6202117+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:31.7198234+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:32.1487146+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:32.6379951+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:33.1075152+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:33.7323973+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:34.0435115+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:34.984782+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:37.4091228+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:39.2620505+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:39.6367408+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:40.014056+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:40.3364482+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:40.7632178+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:41.0613302+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:41.4529784+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:41.7848122+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:43.8082617+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:44.5151222+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:52.0638381+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:21:59.423854+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:22:00.0818877+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:22:00.8572596+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-23T13:22:01.3745443+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-23T16:25:06.1572609+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
   }
 ]

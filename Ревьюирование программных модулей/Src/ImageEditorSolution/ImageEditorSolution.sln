@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor", "ImageProc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditor", "ImageEditor\ImageEditor.csproj", "{904492C6-0342-AEC4-B0A4-3532C1DEB03C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessor.Tests", "ImageProcessor.Tests\ImageProcessor.Tests.csproj", "{A2DA4A61-457B-47E5-B718-BD511235D83F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{904492C6-0342-AEC4-B0A4-3532C1DEB03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904492C6-0342-AEC4-B0A4-3532C1DEB03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904492C6-0342-AEC4-B0A4-3532C1DEB03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DA4A61-457B-47E5-B718-BD511235D83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DA4A61-457B-47E5-B718-BD511235D83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DA4A61-457B-47E5-B718-BD511235D83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DA4A61-457B-47E5-B718-BD511235D83F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
