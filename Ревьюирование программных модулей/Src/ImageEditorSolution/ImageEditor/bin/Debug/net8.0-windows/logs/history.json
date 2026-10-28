@@ -535,5 +535,721 @@
       "Width": "Original",
       "Height": "Original"
     }
+  },
+  {
+    "Date": "2026-10-26T17:02:53.547053+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:02:55.300589+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:02:55.9900422+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:02:56.7421617+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:02:58.3912831+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:00.0161416+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:00.2755641+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:00.92814+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:01.2661028+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:13.8757067+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "1980",
+      "Height": "1020"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:17.6671725+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:37.8835305+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:42.1684009+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:44.736598+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:45.0060177+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-26T17:03:48.3880017+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:28.2028064+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:30.8409565+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:31.0735988+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:31.6895841+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:33.551191+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:34.0905179+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:40.2639066+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:23:46.4276357+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result90.png",
+      "Format": "PNG",
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:28:30.1217185+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:28:32.9510946+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:28:34.5305286+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:28:42.9195553+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result100.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:23.3427334+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:25.2294259+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:25.7380149+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:26.4938956+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:41:29.2385809+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:30.2207099+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:31.2496241+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:37.9516551+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1800",
+      "Height": "1900"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:47.1496644+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1400",
+      "Height": "1900"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:41:54.453121+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\resizeimage\\result5151.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1400",
+      "Height": "1900"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:00.8572541+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:01.8306232+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:45:06.311224+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:07.3112349+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:07.6964535+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:13.2080575+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:18.7135015+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\resizeimage\\result.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:34.7909207+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:36.2623042+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:45:43.053541+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:43.8439465+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:44.3440468+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:49.7807831+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:45:52.1152121+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:17.9362223+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:19.422315+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:46:22.8016797+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:24.3427194+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:24.6005647+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:29.8589989+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:34.106037+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:48.6788891+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:49.988092+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:46:52.6679205+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:53.9532674+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:54.2649392+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:46:59.3288553+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:02.6649564+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:20.3014521+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:22.2920011+03:00",
+    "Operation": "image cleaning",
+    "Parameters": {}
+  },
+  {
+    "Date": "2026-10-28T18:47:24.4029728+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "False",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:25.9132126+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "False",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:26.6999766+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "Original",
+      "Height": "Original"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:34.3593583+03:00",
+    "Operation": "image processing",
+    "Parameters": {
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
+  },
+  {
+    "Date": "2026-10-28T18:47:38.0240257+03:00",
+    "Operation": "saving an image",
+    "Parameters": {
+      "save Path": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\result.png",
+      "Format": "PNG",
+      "Edges": "True",
+      "Sharpen": "True",
+      "Width": "1000",
+      "Height": "1000"
+    }
   }
 ]

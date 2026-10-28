@@ -25,6 +25,9 @@ namespace ImageEditor
         private int? _previousWidth;
         private int? _previousHeight;
         private bool _isUndoing;
+        /// <summary>
+        /// Инициализирует окно приложения, загружает настройки и подготавливает рабочую среду.
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
@@ -55,7 +58,6 @@ namespace ImageEditor
             Directory.CreateDirectory(configsFolder);
             Directory.CreateDirectory(outputFolder);
         }
-      
 
         private readonly ImageService _imageService = new ImageService();
         private AppSettings _settings = new AppSettings();
@@ -103,6 +105,9 @@ namespace ImageEditor
             _previousSharpenEnabled = SharpenCheckBox.IsChecked != true;
             UpdateProcessedImage();
         }
+        /// <summary>
+        /// Сохраняет предыдущее состояние изображения и параметры обработки для отмены действия.
+        /// </summary>
         private void SavePreviousState()
         {
             if(ProcessedImage.Source is BitmapSource currentImage)
@@ -114,6 +119,9 @@ namespace ImageEditor
                 _previousHeight = _newHeight;
             }
         }
+        /// <summary>
+        /// Обновляет изображение в окне программы с учётом выбранных эффектов и размера.
+        /// </summary>
         public void UpdateProcessedImage()
         {
             if (string.IsNullOrEmpty(_inputImagePath))
@@ -148,6 +156,9 @@ namespace ImageEditor
                 MessageBox.Show($"Не удалось обработать изображение.\nПричина: {ex.Message}", "Ошибка обработки", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
+        /// <summary>
+        /// Отменяет последнее действие и восстанавливает предыдущее состояние изображения.
+        /// </summary>
         private void UndoLastAction_Click(object sender, RoutedEventArgs e)
         {
             if (_previousProcessedImage == null)
@@ -175,6 +186,9 @@ namespace ImageEditor
                 _isUndoing = false;
             }
         }
+        /// <summary>
+        /// Изменяет размер изображения в соответствии с указанными пользователем шириной и высотой.
+        /// </summary>
         private void ResizeButton_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(_inputImagePath))
@@ -193,6 +207,9 @@ namespace ImageEditor
             _newHeight = height;
             UpdateProcessedImage();
         }
+        /// <summary>
+        /// Сохраняет обработанное изображение в выбранный пользователем файл.
+        /// </summary>
         public void SaveResult_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(_inputImagePath))
@@ -228,6 +245,9 @@ namespace ImageEditor
                 }
             }
         }
+        /// <summary>
+        /// Сохраняет текущие настройки приложения для последующих запусков.
+        /// </summary>
         private void SaveSettings()
         {
             _settings.LastImagePath = _inputImagePath ?? "";
@@ -243,6 +263,9 @@ namespace ImageEditor
         {
             SaveSettings();
         }
+        /// <summary>
+        /// Загружает изображение из указанного файла и отображает его в окне программы.
+        /// </summary>
         private void LoadImageFromPath(string filePath)
         {
             if(!File.Exists(filePath))
@@ -271,7 +294,9 @@ namespace ImageEditor
                 MessageBox.Show($"Не удалось загрузить изображение.\nПричина: {ex.Message}", "Ошибка загрузки", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
-
+        /// <summary>
+        /// Очищает текущее изображение и сбрасывает связанные данные в интерфейсе.
+        /// </summary>
         private void ClearImageButton_Click(object sender, RoutedEventArgs e)
         {
             _inputImagePath = null;

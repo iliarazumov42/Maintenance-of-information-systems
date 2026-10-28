@@ -19,26 +19,26 @@ namespace ImageEditor
         public double WindowWidth { get; set; } = 1000;
         public double WindowHeight { get; set; } = 600;
 
-        private static readonly string SettingsFailPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "configs", "settings.json");
+        private static readonly string SettingsFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "configs", "settings.json");
 
         public void Save()
         {
-            string? folder = Path.GetDirectoryName(SettingsFailPath);
+            string? folder = Path.GetDirectoryName(SettingsFilePath);
             if (folder != null)
             {
                 Directory.CreateDirectory(folder);
             }
             string json = JsonSerializer.Serialize(this, new JsonSerializerOptions {WriteIndented = true});
-            File.WriteAllText(SettingsFailPath, json);
+            File.WriteAllText(SettingsFilePath, json);
         }
 
         public static AppSettings Load()
         {
-            if (!File.Exists(SettingsFailPath))
+            if (!File.Exists(SettingsFilePath))
             {
                 return new AppSettings();
             }
-            string json = File.ReadAllText(SettingsFailPath);
+            string json = File.ReadAllText(SettingsFilePath);
             return JsonSerializer.Deserialize<AppSettings>(json) ?? new AppSettings();
         }
     }
